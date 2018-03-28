@@ -8,3 +8,7 @@
 
 ### Задание 3
 ![](https://github.com/nastyaprokhorova/hw6/blob/master/граф3.png)
+
+## Часть 2. Sketch Engine
+### Задание 1
+![]()
