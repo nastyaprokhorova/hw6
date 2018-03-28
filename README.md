@@ -11,4 +11,4 @@
 
 ## Часть 2. Sketch Engine
 ### Задание 1
-![]()
+![](https://github.com/nastyaprokhorova/hw6/blob/master/Question.png)
