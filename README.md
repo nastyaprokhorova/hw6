@@ -13,6 +13,10 @@
 ### Задание 1
 ![](https://github.com/nastyaprokhorova/hw6/blob/master/Question.png)
 ![](https://github.com/nastyaprokhorova/hw6/blob/master/Question1.png)
+
+### Задание 2
 ![](https://github.com/nastyaprokhorova/hw6/blob/master/дшлу.png)
+
+### Задание 3 (бонусное)
 ![](https://github.com/nastyaprokhorova/hw6/blob/master/awards1.png)
 ![](https://github.com/nastyaprokhorova/hw6/blob/master/awards.png)
