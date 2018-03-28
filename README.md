@@ -15,4 +15,4 @@
 ![](https://github.com/nastyaprokhorova/hw6/blob/master/Question1.png)
 ![](https://github.com/nastyaprokhorova/hw6/blob/master/дшлу.png)
 ![](https://github.com/nastyaprokhorova/hw6/blob/master/awards1.png)
-![](https://github.com/nastyaprokhorova/hw6/blob/master/Question.png)
+![](https://github.com/nastyaprokhorova/hw6/blob/master/awards.png)
