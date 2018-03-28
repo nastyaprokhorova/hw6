@@ -13,3 +13,4 @@
 ### Задание 1
 ![](https://github.com/nastyaprokhorova/hw6/blob/master/Question.png)
 ![](https://github.com/nastyaprokhorova/hw6/blob/master/Question1.png)
+![](https://github.com/nastyaprokhorova/hw6/blob/master/дшлу.png)
